@@ -23,3 +23,5 @@
 sudo chmod 777 utils/pc_error
 python test.py --dataset_path='training_dataset_path'
 ```
+### Coder
+实际的编解码器脚本被覆盖掉了，需要自己写一个
